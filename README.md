@@ -16,8 +16,6 @@
 deno add @bysolivan/types
 ```
 
----
-
 ## Authors
 
 - **Solivan** ([@bysolivan](https://github.com/bysolivan))
