@@ -4,7 +4,7 @@ The first release of `@bysolivan/types`. This version introduces a core set of
 framework-agnostic lifecycle interfaces designed to standardize object behavior
 across projects.
 
-## [1.0.0] - 2026-06-16
+## [1.0.0 - 1.0.2] - 2026-06-16
 
 ### Added
 
