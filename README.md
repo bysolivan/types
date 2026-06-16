@@ -1,4 +1,4 @@
-@bysolivan/types
+# Types
 
 > A collection of agnostic interfaces for @bysolivan ecosystem.
 
