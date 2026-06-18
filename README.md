@@ -13,7 +13,7 @@
 ## Installation
 
 ```bash
-deno add @bysolivan/types
+deno add jsr:@bysolivan/types
 ```
 
 ## Authors
