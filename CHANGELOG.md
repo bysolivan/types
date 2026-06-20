@@ -3,7 +3,7 @@
 This version introduces a new interface called Exposable, that defines if a
 object can be secure exposed for public management
 
-## [1.1.0] - 2026-06-16
+## [1.1.0] - 2026-06-20
 
 ### Added
 
