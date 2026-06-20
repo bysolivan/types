@@ -2,14 +2,6 @@
 
 > A collection of agnostic interfaces for @bysolivan ecosystem.
 
-## Interfaces
-
-| Interface         | Description                                                            |
-| ----------------- | ---------------------------------------------------------------------- |
-| `Configurable<T>` | Defines an object that allows for updating its operational parameters. |
-| `Restorable`      | Defines an object capable of resetting its internal state for reuse.   |
-| `Disposable`      | Defines an object that can be disposed of and rendered unusable.       |
-
 ## Installation
 
 ```bash
